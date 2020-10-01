@@ -1,5 +1,5 @@
 # Bootstrap 3 Essential Training
-This is the repository for my course Bootstrap 3 Essential Training. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/bootstrap-3-essential-training?trk=insiders_6787408_learning) and [Lynda.com](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training)
+This is the repository for my course Bootstrap 3 Essential Training. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/bootstrap-3-essential-training?trk=insiders_6787408_learning) and [Lynda.com](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training). Enjoy!
 
 [![Bootstrap 3 Essential Training](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=DC3bEir98BTu%2Ff%2FWq7z9fLJqdX0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-lWiKs_tSfZHbuf8PeZLSiol8SfykDlQ00fOmhQjbhGo69LcLmY4Yx3A)](https://www.linkedin.com/learning/bootstrap-3-essential-training?trk=insiders_6787408_learning)
 
@@ -24,7 +24,6 @@ You may find additional branches that correspod to other states, so for example,
 3. CD to the folder `cd FOLDERNAME`
 4. Run `> npm install` to install the project dependencies
 5. Run `> gulp` to start live preview server
-
 ## More Stuff
 Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?trk=insiders_6787408_learning) and [lynda.com](http://lynda.com/rayvillalobos). You can follow me on [LinkedIn](https://www.linkedin.com/in/planetoftheweb/), read [my blog](http://raybo.org), [follow me on twitter](http://twitter.com/planetoftheweb), or check out my [youtube channel](http://youtube.com/planetoftheweb).
 
